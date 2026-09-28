@@ -1,0 +1,117 @@
+{
+  "generic_technical": {
+    "Easy": [
+      {"question": "What is the difference between a compiler and an interpreter?", "concepts": ["compiler", "interpreter", "translation", "execution"]},
+      {"question": "Explain the difference between an array and a linked list.", "concepts": ["array", "linked list", "memory", "contiguous", "pointer"]},
+      {"question": "What is the difference between primary key and foreign key in a database?", "concepts": ["primary key", "foreign key", "unique", "reference", "database"]},
+      {"question": "What is version control and why is Git used in software teams?", "concepts": ["version control", "git", "collaboration", "history", "branching"]},
+      {"question": "What is the difference between GET and POST HTTP methods?", "concepts": ["http", "get", "post", "request", "idempotent"]}
+    ],
+    "Medium": [
+      {"question": "Explain the concept of Object-Oriented Programming and its four pillars.", "concepts": ["encapsulation", "inheritance", "polymorphism", "abstraction", "class", "object"]},
+      {"question": "What is normalization in databases? Explain 1NF, 2NF, and 3NF briefly.", "concepts": ["normalization", "redundancy", "1nf", "2nf", "3nf", "functional dependency"]},
+      {"question": "Explain the difference between synchronous and asynchronous programming.", "concepts": ["synchronous", "asynchronous", "blocking", "non-blocking", "callback", "event loop"]},
+      {"question": "What is the difference between SQL and NoSQL databases? When would you choose one over the other?", "concepts": ["sql", "nosql", "schema", "scalability", "relational", "document"]},
+      {"question": "Explain how REST APIs work and what makes an API RESTful.", "concepts": ["rest", "api", "http methods", "statelessness", "resource", "endpoint"]},
+      {"question": "What is time complexity? Explain Big-O notation with an example.", "concepts": ["time complexity", "big-o", "algorithm efficiency", "worst case"]}
+    ],
+    "Hard": [
+      {"question": "Explain the CAP theorem and its implications on distributed database design.", "concepts": ["cap theorem", "consistency", "availability", "partition tolerance", "distributed system"]},
+      {"question": "How would you design a scalable microservices architecture for an e-commerce application?", "concepts": ["microservices", "scalability", "load balancing", "api gateway", "service discovery"]},
+      {"question": "Explain how indexing works in databases and how it affects query performance.", "concepts": ["indexing", "b-tree", "query optimization", "performance", "database"]},
+      {"question": "Describe how you would design a rate limiter for a public API.", "concepts": ["rate limiting", "throttling", "token bucket", "api design", "scalability"]}
+    ]
+  },
+  "hr": {
+    "Easy": [
+      {"question": "Tell me about yourself.", "concepts": ["background", "education", "skills", "career goal"]},
+      {"question": "What are your strengths and weaknesses?", "concepts": ["strength", "weakness", "self-awareness", "improvement"]},
+      {"question": "Why do you want to work in this role?", "concepts": ["motivation", "career goal", "interest", "role fit"]}
+    ],
+    "Medium": [
+      {"question": "Describe a time you faced a conflict in a team project and how you resolved it.", "concepts": ["conflict resolution", "teamwork", "communication", "compromise"]},
+      {"question": "Where do you see yourself in the next three years?", "concepts": ["career goal", "growth", "planning", "aspiration"]},
+      {"question": "How do you handle tight deadlines and pressure?", "concepts": ["time management", "stress management", "prioritization", "deadline"]}
+    ],
+    "Hard": [
+      {"question": "Tell me about a time you failed at something. What did you learn from it?", "concepts": ["failure", "learning", "resilience", "growth mindset"]},
+      {"question": "Describe a situation where you had to convince a team to adopt your idea over another approach.", "concepts": ["persuasion", "leadership", "communication", "decision making"]}
+    ]
+  },
+  "behavioral": {
+    "Easy": [
+      {"question": "How do you prioritize tasks when working on multiple projects at once?", "concepts": ["prioritization", "time management", "organization"]},
+      {"question": "Describe your ideal working environment.", "concepts": ["work culture", "collaboration", "preference"]}
+    ],
+    "Medium": [
+      {"question": "Tell me about a time you had to learn a new technology quickly for a project.", "concepts": ["adaptability", "self-learning", "technology", "project"]},
+      {"question": "Describe a situation where you had to give constructive feedback to a peer.", "concepts": ["feedback", "communication", "teamwork"]}
+    ],
+    "Hard": [
+      {"question": "Describe a time you had to make a decision without complete information. What was your approach?", "concepts": ["decision making", "ambiguity", "risk", "judgement"]},
+      {"question": "Tell me about a time you disagreed with your manager or team lead. How did you handle it?", "concepts": ["disagreement", "communication", "professionalism", "conflict"]}
+    ]
+  },
+  "scenario": {
+    "Easy": [
+      {"question": "If a script you wrote suddenly stops working in production, what are the first three things you check?", "concepts": ["debugging", "logs", "error handling", "root cause"]}
+    ],
+    "Medium": [
+      {"question": "Your team's API response times have suddenly increased. How would you investigate and fix this?", "concepts": ["performance", "profiling", "bottleneck", "database query", "caching"]},
+      {"question": "A teammate pushed code that broke the main branch right before a demo. What do you do?", "concepts": ["version control", "rollback", "communication", "incident response"]}
+    ],
+    "Hard": [
+      {"question": "You are asked to migrate a monolithic application to microservices with zero downtime. How would you plan this?", "concepts": ["migration", "microservices", "zero downtime", "strangler pattern", "planning"]},
+      {"question": "Your ML model performs well in testing but poorly in production. How would you diagnose the issue?", "concepts": ["data drift", "overfitting", "train-test mismatch", "monitoring", "model evaluation"]}
+    ]
+  },
+  "skill_specific": {
+    "Python": {
+      "Easy": [{"question": "What is the difference between a list and a tuple in Python?", "concepts": ["list", "tuple", "mutability", "python"]}],
+      "Medium": [{"question": "Explain Python's Global Interpreter Lock (GIL) and its impact on multithreading.", "concepts": ["gil", "multithreading", "concurrency", "python"]}],
+      "Hard": [{"question": "How does Python's memory management and garbage collection work?", "concepts": ["garbage collection", "reference counting", "memory management", "python"]}]
+    },
+    "Java": {
+      "Easy": [{"question": "What is the difference between JDK, JRE, and JVM?", "concepts": ["jdk", "jre", "jvm", "java"]}],
+      "Medium": [{"question": "Explain exception handling in Java using try-catch-finally.", "concepts": ["exception handling", "try catch", "finally", "java"]}],
+      "Hard": [{"question": "Explain how Java's garbage collection algorithms work (e.g. generational GC).", "concepts": ["garbage collection", "generational gc", "jvm", "memory"]}]
+    },
+    "SQL": {
+      "Easy": [{"question": "What is the difference between WHERE and HAVING clauses in SQL?", "concepts": ["where", "having", "group by", "sql"]}],
+      "Medium": [{"question": "Explain the different types of SQL joins with examples.", "concepts": ["inner join", "left join", "right join", "outer join", "sql"]}],
+      "Hard": [{"question": "How would you optimize a slow-running SQL query on a large table?", "concepts": ["query optimization", "indexing", "execution plan", "sql"]}]
+    },
+    "Machine Learning": {
+      "Easy": [{"question": "What is the difference between supervised and unsupervised learning?", "concepts": ["supervised learning", "unsupervised learning", "labels", "machine learning"]}],
+      "Medium": [{"question": "Explain the bias-variance tradeoff in machine learning.", "concepts": ["bias", "variance", "overfitting", "underfitting", "tradeoff"]}],
+      "Hard": [{"question": "How would you handle a highly imbalanced classification dataset?", "concepts": ["class imbalance", "oversampling", "undersampling", "smote", "precision recall"]}]
+    },
+    "React": {
+      "Easy": [{"question": "What is the difference between props and state in React?", "concepts": ["props", "state", "react", "component"]}],
+      "Medium": [{"question": "Explain the React component lifecycle / useEffect hook.", "concepts": ["lifecycle", "useeffect", "hooks", "react"]}],
+      "Hard": [{"question": "How would you optimize the performance of a large React application?", "concepts": ["memoization", "react.memo", "virtual dom", "performance", "code splitting"]}]
+    },
+    "Django": {
+      "Easy": [{"question": "What is the MVT architecture in Django?", "concepts": ["mvt", "model", "view", "template", "django"]}],
+      "Medium": [{"question": "Explain Django ORM and how migrations work.", "concepts": ["orm", "migrations", "models", "django"]}],
+      "Hard": [{"question": "How would you scale a Django application to handle high traffic?", "concepts": ["caching", "load balancing", "database scaling", "celery", "django"]}]
+    },
+    "Data Structures": {
+      "Easy": [{"question": "What is a stack and where is it used?", "concepts": ["stack", "lifo", "push", "pop"]}],
+      "Medium": [{"question": "Explain how a hash map handles collisions.", "concepts": ["hash map", "collision", "chaining", "open addressing"]}],
+      "Hard": [{"question": "Explain how a self-balancing binary search tree (e.g. AVL/Red-Black tree) maintains balance.", "concepts": ["avl tree", "red-black tree", "rotation", "balance factor"]}]
+    },
+    "Docker": {
+      "Easy": [{"question": "What is the difference between a Docker image and a Docker container?", "concepts": ["image", "container", "docker"]}],
+      "Medium": [{"question": "What is the purpose of a Dockerfile and docker-compose file?", "concepts": ["dockerfile", "docker-compose", "orchestration"]}],
+      "Hard": [{"question": "How would you reduce the size of a Docker image for a Python application?", "concepts": ["multi-stage build", "image size", "alpine", "docker"]}]
+    }
+  },
+  "project_template_questions": [
+    "Can you walk me through the architecture of your project '{project}'?",
+    "What was the most challenging technical problem you faced while building '{project}', and how did you solve it?",
+    "Why did you choose the specific technologies/tools you used in '{project}'?",
+    "How did you test and validate '{project}' before considering it complete?",
+    "If you had more time, what would you improve about '{project}'?"
+  ]
+}

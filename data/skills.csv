@@ -1,0 +1,91 @@
+skill,category,aliases
+Python,Programming Language,python3|py
+Java,Programming Language,core java|java8|java 8
+C,Programming Language,c language|c programming
+C++,Programming Language,cpp|c plus plus
+C#,Programming Language,csharp|c sharp
+JavaScript,Programming Language,js|es6|ecmascript
+TypeScript,Programming Language,ts
+PHP,Programming Language,
+Go,Programming Language,golang
+Kotlin,Programming Language,
+Swift,Programming Language,
+R,Programming Language,r language|r programming
+SQL,Database,structured query language
+HTML,Web,html5
+CSS,Web,css3
+React,Framework,react.js|reactjs
+Angular,Framework,angularjs
+Vue.js,Framework,vuejs|vue
+Node.js,Framework,nodejs|node
+Express.js,Framework,expressjs|express
+Django,Framework,
+Flask,Framework,
+Spring Boot,Framework,springboot|spring
+FastAPI,Framework,fast api
+Bootstrap,Framework,
+jQuery,Framework,
+.NET,Framework,dotnet|dot net
+MongoDB,Database,mongo
+MySQL,Database,my sql
+PostgreSQL,Database,postgres|psql
+Oracle Database,Database,oracle db|oracledb
+SQLite,Database,sqlite3
+Redis,Database,
+Firebase,Database,
+Git,Tool,
+GitHub,Tool,git hub
+GitLab,Tool,git lab
+Docker,Tool,containerization
+Kubernetes,Tool,k8s
+Jenkins,Tool,ci/cd|cicd
+Jira,Tool,
+Postman,Tool,
+Linux,Tool,unix
+REST API,Concept,restful api|rest apis|restful|api development
+GraphQL,Concept,
+Microservices,Concept,microservice architecture
+Machine Learning,AI/ML,ml
+Deep Learning,AI/ML,dl|neural networks
+Natural Language Processing,AI/ML,nlp
+Computer Vision,AI/ML,cv|opencv
+Data Science,AI/ML,
+Artificial Intelligence,AI/ML,ai
+TensorFlow,AI/ML,tf
+PyTorch,AI/ML,torch
+Keras,AI/ML,
+Scikit-learn,AI/ML,sklearn|scikit learn
+Pandas,AI/ML,
+NumPy,AI/ML,numpy
+Matplotlib,AI/ML,
+Seaborn,AI/ML,
+OpenCV,AI/ML,
+Data Structures,CS Fundamentals,dsa|data structure
+Algorithms,CS Fundamentals,algorithm design
+Operating Systems,CS Fundamentals,os
+Computer Networks,CS Fundamentals,networking|cn
+DBMS,CS Fundamentals,database management system
+Object Oriented Programming,CS Fundamentals,oop|oops
+AWS,Cloud,amazon web services
+Azure,Cloud,microsoft azure
+Google Cloud Platform,Cloud,gcp
+Heroku,Cloud,
+Netlify,Cloud,
+Vercel,Cloud,
+CI/CD,Cloud,continuous integration|continuous deployment
+Excel,Tool,ms excel|microsoft excel
+Power BI,Tool,powerbi
+Tableau,Tool,
+Android Development,Mobile,android
+iOS Development,Mobile,ios
+Flutter,Mobile,
+React Native,Mobile,
+Agile,Methodology,agile methodology|scrum
+Testing,Methodology,unit testing|software testing
+Selenium,Tool,
+JUnit,Tool,
+Data Analysis,AI/ML,data analytics
+Data Visualization,AI/ML,
+Big Data,AI/ML,
+Hadoop,AI/ML,
+Spark,AI/ML,apache spark|pyspark

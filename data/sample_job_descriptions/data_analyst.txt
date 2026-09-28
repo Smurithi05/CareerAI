@@ -1,0 +1,22 @@
+Job Title: Data Analyst
+
+We are hiring a Data Analyst to help turn raw data into actionable business insights.
+
+Requirements:
+- Bachelor's degree in Computer Science, Statistics, IT, or a related quantitative field.
+- Strong proficiency in SQL for data extraction and analysis.
+- Working knowledge of Python (Pandas, NumPy) for data manipulation.
+- Experience with data visualization tools such as Power BI or Tableau.
+- Understanding of statistics and data analysis fundamentals.
+- Strong analytical and problem-solving skills.
+
+Preferred:
+- Experience with Excel for reporting and dashboards.
+- Basic understanding of Machine Learning concepts.
+- Familiarity with data visualization libraries such as Matplotlib or Seaborn.
+
+Responsibilities:
+- Collect, clean, and analyze large datasets from multiple sources.
+- Build dashboards and reports to communicate insights to stakeholders.
+- Identify trends and patterns to support data-driven decision making.
+- Work closely with business teams to understand analytical requirements.

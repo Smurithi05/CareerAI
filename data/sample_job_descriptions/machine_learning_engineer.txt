@@ -1,0 +1,23 @@
+Job Title: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to build and deploy ML-powered
+features for our product.
+
+Requirements:
+- Bachelor's or Master's degree in Computer Science, AI, or a related field.
+- Strong foundation in Machine Learning and Deep Learning concepts.
+- Proficiency in Python and libraries such as Scikit-learn, TensorFlow, or PyTorch.
+- Experience with Pandas and NumPy for data preprocessing.
+- Understanding of model evaluation metrics and the bias-variance tradeoff.
+- Experience with Natural Language Processing or Computer Vision is a plus.
+
+Preferred:
+- Experience deploying models using Flask/FastAPI and Docker.
+- Familiarity with cloud platforms (AWS/Azure/GCP) for ML workloads.
+- Knowledge of Git for version control and collaborative development.
+
+Responsibilities:
+- Design, train, and evaluate machine learning models.
+- Collaborate with data engineers to build robust data pipelines.
+- Deploy models into production and monitor their performance.
+- Stay up to date with the latest advancements in AI/ML research.

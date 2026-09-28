@@ -1,0 +1,25 @@
+Job Title: Software Developer
+
+We are looking for a motivated Software Developer to join our engineering team.
+The ideal candidate will design, develop, and maintain scalable web applications.
+
+Requirements:
+- Bachelor's degree (B.Tech/B.E) in Computer Science, IT, or a related field.
+- Strong programming skills in Java or Python.
+- Experience with Data Structures and Algorithms.
+- Good understanding of Object Oriented Programming concepts.
+- Hands-on experience with SQL and relational databases (MySQL/PostgreSQL).
+- Familiarity with REST API design and development.
+- Experience using Git and GitHub for version control.
+- 0-2 years of experience (freshers with strong fundamentals are welcome).
+
+Preferred:
+- Exposure to Spring Boot or Django/Flask.
+- Familiarity with Docker and basic CI/CD concepts.
+- Understanding of Agile/Scrum methodology.
+
+Responsibilities:
+- Write clean, maintainable, and well-tested code.
+- Collaborate with cross-functional teams to define and ship new features.
+- Participate in code reviews and follow best software engineering practices.
+- Debug and resolve production issues in a timely manner.

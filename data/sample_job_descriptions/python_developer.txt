@@ -1,0 +1,22 @@
+Job Title: Python Developer
+
+We are seeking a skilled Python Developer to build backend services and APIs.
+
+Requirements:
+- Bachelor's degree in Computer Science, IT, or related field.
+- 1+ years of professional or strong academic project experience with Python.
+- Solid understanding of REST API design using Flask or Django.
+- Experience with SQL databases (PostgreSQL/MySQL) and ORMs.
+- Familiarity with Git-based version control workflows.
+- Good understanding of Data Structures and Algorithms.
+
+Preferred:
+- Experience with Docker for containerization.
+- Exposure to unit testing frameworks and Test-Driven Development.
+- Basic understanding of cloud deployment (AWS/Azure).
+
+Responsibilities:
+- Develop and maintain backend services and REST APIs using Python.
+- Write unit tests to ensure code quality and reliability.
+- Optimize application performance and database queries.
+- Work with the frontend team to integrate user-facing elements.

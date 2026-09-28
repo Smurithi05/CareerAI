@@ -1,0 +1,23 @@
+Job Title: Web Developer
+
+We are looking for a Full Stack Web Developer to build modern, responsive
+web applications.
+
+Requirements:
+- Bachelor's degree in Computer Science, IT, or related field (or equivalent experience).
+- Strong knowledge of HTML, CSS, and JavaScript.
+- Experience with React for building interactive user interfaces.
+- Experience with Node.js/Express.js for backend development.
+- Understanding of REST API integration.
+- Familiarity with Git and GitHub for collaborative development.
+
+Preferred:
+- Experience with MongoDB or MySQL databases.
+- Familiarity with Bootstrap or Tailwind CSS for responsive design.
+- Basic understanding of cloud deployment platforms (Netlify/Vercel/Heroku).
+
+Responsibilities:
+- Build and maintain responsive, cross-browser-compatible web applications.
+- Collaborate with designers to translate UI/UX mockups into working code.
+- Integrate frontend applications with backend REST APIs.
+- Ensure application performance, quality, and responsiveness.
